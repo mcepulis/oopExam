@@ -1,0 +1,15 @@
+{
+    "name": "namai/oopexam",
+    "autoload": {
+        "psr-4": {
+            "Oopexam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mcepulis",
+            "email": "mrscpls@gmail.com"
+        }
+    ],
+    "require": {}
+}
